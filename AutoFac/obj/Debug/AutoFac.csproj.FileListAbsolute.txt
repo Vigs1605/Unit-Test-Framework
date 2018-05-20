@@ -1,0 +1,7 @@
+c:\users\vignesh\AutoFac\AutoFac\bin\Debug\AutoFac.exe.config
+c:\users\vignesh\AutoFac\AutoFac\bin\Debug\AutoFac.exe
+c:\users\vignesh\AutoFac\AutoFac\bin\Debug\AutoFac.pdb
+c:\users\vignesh\AutoFac\AutoFac\obj\Debug\AutoFac.csprojResolveAssemblyReference.cache
+c:\users\vignesh\AutoFac\AutoFac\obj\Debug\AutoFac.csproj.CoreCompileInputs.cache
+c:\users\vignesh\AutoFac\AutoFac\obj\Debug\AutoFac.exe
+c:\users\vignesh\AutoFac\AutoFac\obj\Debug\AutoFac.pdb

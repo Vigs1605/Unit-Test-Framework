@@ -1,0 +1,7 @@
+c:\Users\Vignesh\AutoFac\SampleService\bin\Debug\SampleService.dll.config
+c:\Users\Vignesh\AutoFac\SampleService\bin\Debug\SampleService.dll
+c:\Users\Vignesh\AutoFac\SampleService\bin\Debug\SampleService.pdb
+c:\Users\Vignesh\AutoFac\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+c:\Users\Vignesh\AutoFac\SampleService\obj\Debug\SampleService.csproj.CoreCompileInputs.cache
+c:\Users\Vignesh\AutoFac\SampleService\obj\Debug\SampleService.dll
+c:\Users\Vignesh\AutoFac\SampleService\obj\Debug\SampleService.pdb
